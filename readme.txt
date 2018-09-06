@@ -4,3 +4,4 @@ git is a free software distributed vcs under gpl
 git is a good
 add a new line
 add two line and create fas and create fastt
+test no-ff
